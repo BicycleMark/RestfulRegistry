@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "account": "mark.d.wardell@gmail.com",
+    "subject": "Please Confirm Account",
+    "from": "mark.d.wardell@gmail.com",
+    "HTML": "<b>Hello {0}</b>"
+  }
+
+}
+

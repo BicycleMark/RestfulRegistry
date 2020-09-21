@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SendMail": {
+      "commandName": "Project",
+      "commandLineArgs": "mark.d.wardell@gmail.com  www.google.com"
+    }
+  }
+}
