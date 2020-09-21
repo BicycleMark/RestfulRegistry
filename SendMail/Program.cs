@@ -18,8 +18,7 @@ namespace SendMail
        
         static async Task Main(params string[] args)
         {
-            await ConfirmationEmailSender.SendMailAsync(args);
-          
+            await ConfirmationEmailSender.SendMailAsync(args);    
         }
     }
 }
